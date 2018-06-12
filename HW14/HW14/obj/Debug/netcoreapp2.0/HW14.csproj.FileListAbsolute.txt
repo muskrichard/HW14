@@ -1,0 +1,11 @@
+c:\users\richard musk\source\repos\HW14\HW14\bin\Debug\netcoreapp2.0\HW14.deps.json
+c:\users\richard musk\source\repos\HW14\HW14\bin\Debug\netcoreapp2.0\HW14.runtimeconfig.json
+c:\users\richard musk\source\repos\HW14\HW14\bin\Debug\netcoreapp2.0\HW14.runtimeconfig.dev.json
+c:\users\richard musk\source\repos\HW14\HW14\bin\Debug\netcoreapp2.0\HW14.dll
+c:\users\richard musk\source\repos\HW14\HW14\bin\Debug\netcoreapp2.0\HW14.pdb
+c:\users\richard musk\source\repos\HW14\HW14\obj\Debug\netcoreapp2.0\HW14.csprojAssemblyReference.cache
+c:\users\richard musk\source\repos\HW14\HW14\obj\Debug\netcoreapp2.0\HW14.csproj.CoreCompileInputs.cache
+c:\users\richard musk\source\repos\HW14\HW14\obj\Debug\netcoreapp2.0\HW14.AssemblyInfoInputs.cache
+c:\users\richard musk\source\repos\HW14\HW14\obj\Debug\netcoreapp2.0\HW14.AssemblyInfo.cs
+c:\users\richard musk\source\repos\HW14\HW14\obj\Debug\netcoreapp2.0\HW14.dll
+c:\users\richard musk\source\repos\HW14\HW14\obj\Debug\netcoreapp2.0\HW14.pdb
